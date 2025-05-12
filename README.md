@@ -5,8 +5,8 @@ This repository implements the **Dynamic Sensor Selection (DSS)** method, as pro
 ## Structure
 This repository contains two directories:
 
-1. `src/`: Contains Python modules implementing DSS and complementary methods such as DMD and DGC.
-1. `notebooks/`: Includes Jupyter notebooks to recreate the figures and analyses presented in the paper
+1. `src/`: Contains Python modules implementing DSS and related methods including [Dynamic Mode Decomposition (DMD)](https://www.annualreviews.org/content/journals/10.1146/annurev-fluid-030121-015835), [Data Guided Control (DGC)](https://www.pnas.org/doi/10.1073/pnas.1712350114), and estimation proceedures.
+2. `notebooks/`: Includes Jupyter notebooks to recreate the figures and analyses presented in the paper
 
 ## Cite As:
 ```
