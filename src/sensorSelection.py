@@ -89,7 +89,6 @@ def energyMaximizationTV(model, times, v=False):
     return TVSensors
 
 def submodularSensorSelection(A, gramT=1,maxSensors=2, subCriteria=1):
-    """A new function should be created to call the MATLAB submodular optimization codes"""
     n = A.shape[0]
     # Submodular optimization
     S = []              # selected sensors
