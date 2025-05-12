@@ -1,4 +1,4 @@
-# Dynamic Sensor Selection
+# Dynamic Sensor Selection for Biomarker Discovery
 
 This repository implements the **Dynamic Sensor Selection (DSS)** method, as proposed in the paper: [Dynamic Sensor Selection for Biomarker Discovery](https://arxiv.org/abs/2405.09809). DSS is an observability-guided sensor selection method designed to identify biomarkers that change throughout time.
 
