@@ -1,0 +1,124 @@
+ABL1	 ABL proto-oncogene 1, non-receptor tyrosine kinase 	P00519.4
+ANAPC1	 anaphase promoting complex subunit 1 	Q9H1A4.1
+ANAPC10	 anaphase promoting complex subunit 10 	Q9UM13.1
+ANAPC11	 anaphase promoting complex subunit 11 	Q9NYG5.1
+ANAPC13	 anaphase promoting complex subunit 13 	Q9BS18.1
+ANAPC2	 anaphase promoting complex subunit 2 	Q9UJX6.1
+ANAPC4	 anaphase promoting complex subunit 4 	Q9UJX5.2
+ANAPC5	 anaphase promoting complex subunit 5 	Q9UJX4.2
+ANAPC7	 anaphase promoting complex subunit 7 	Q9UJX3.5
+ATM	 ATM serine/threonine kinase 	Q13315.4
+ATR	 ATR serine/threonine kinase 	Q13535.3
+BUB1	 BUB1 mitotic checkpoint serine/threonine kinase 	O43683.1
+BUB1B	 BUB1 mitotic checkpoint serine/threonine kinase B 	O60566.3
+BUB3	 BUB3, mitotic checkpoint protein 	O43684.1
+CCNA1	 cyclin A1 	P78396.1
+CCNA2	 cyclin A2 	P20248.2
+CCNB1	 cyclin B1 	P14635.1
+CCNB2	 cyclin B2 	O95067.1
+CCNB3	 cyclin B3 	Q8WWL7.2
+CCND1	 cyclin D1 	P24385.1
+CCND2	 cyclin D2 	P30279.1
+CCND3	 cyclin D3 	P30281.2
+CCNE1	 cyclin E1 	P24864.2
+CCNE2	 cyclin E2 	O96020.1
+CCNH	 cyclin H 	P51946.1
+CDC14A	 cell division cycle 14A 	Q9UNH5.1
+CDC14B	 cell division cycle 14B 	O60729.1
+CDC16	 cell division cycle 16 	Q13042.2
+CDC20	 cell division cycle 20 	Q12834.2
+CDC23	 cell division cycle 23 	Q9UJX2.3
+CDC25A	 cell division cycle 25A 	P30304.2
+CDC25B	 cell division cycle 25B 	P30305.2
+CDC25C	 cell division cycle 25C 	P30307.2
+CDC26	 cell division cycle 26 	Q8NHZ8.1
+CDC27	 cell division cycle 27 	P30260.2
+CDC45	 cell division cycle 45 	O75419.1
+CDC6	 cell division cycle 6 	Q99741.1
+CDC7	 cell division cycle 7 	O00311.1
+CDK1	 cyclin dependent kinase 1 	P06493.3
+CDK2	 cyclin dependent kinase 2 	P24941.2
+CDK4	 cyclin dependent kinase 4 	P11802.2
+CDK6	 cyclin dependent kinase 6 	Q00534.1
+CDK7	 cyclin dependent kinase 7 	P50613.1
+CDKN1A	 cyclin dependent kinase inhibitor 1A 	P38936.3
+CDKN1B	 cyclin dependent kinase inhibitor 1B 	P46527.1
+CDKN1C	 cyclin dependent kinase inhibitor 1C 	P49918.1
+CDKN2A	 cyclin dependent kinase inhibitor 2A 	Q8N726.2
+CDKN2B	 cyclin dependent kinase inhibitor 2B 	P42772.1
+CDKN2C	 cyclin dependent kinase inhibitor 2C 	P42773.1
+CDKN2D	 cyclin dependent kinase inhibitor 2D 	P55273.1
+CHEK1	 checkpoint kinase 1 	O14757.2
+CHEK2	 checkpoint kinase 2 	O96017.1
+CREBBP	 CREB binding protein 	Q92793.3
+CUL1	 cullin 1 	Q13616.2
+DBF4	 DBF4 zinc finger 	Q9UBU7.1
+E2F1	 E2F transcription factor 1 	Q01094.1
+E2F2	 E2F transcription factor 2 	Q14209.1
+E2F3	 E2F transcription factor 3 	O00716.1
+E2F4	 E2F transcription factor 4 	Q16254.2
+E2F5	 E2F transcription factor 5 	Q15329.1
+EP300	 E1A binding protein p300 	Q09472.2
+ESPL1	 extra spindle pole bodies like 1, separase 	Q14674.3
+FZR1	 fizzy and cell division cycle 20 related 1 	Q9UM11.2
+GADD45A	 growth arrest and DNA damage inducible alpha 	P24522.1
+GADD45B	 growth arrest and DNA damage inducible beta 	O75293.1
+GADD45G	 growth arrest and DNA damage inducible gamma 	O95257.1
+GSK3B	 glycogen synthase kinase 3 beta 	P49841.2
+HDAC1	 histone deacetylase 1 	Q13547.1
+HDAC2	 histone deacetylase 2 	Q92769.2
+MAD1L1	 MAD1 mitotic arrest deficient like 1 	Q9Y6D9.2
+MAD2L1	 mitotic arrest deficient 2 like 1 	Q13257.1
+MAD2L2	 mitotic arrest deficient 2 like 2 	Q9UI95.2
+MCM2	 minichromosome maintenance complex component 2 	P49736.4
+MCM3	 minichromosome maintenance complex component 3 	P25205.3
+MCM4	 minichromosome maintenance complex component 4 	P33991.5
+MCM5	 minichromosome maintenance complex component 5 	P33992.5
+MCM6	 minichromosome maintenance complex component 6 	Q14566.1
+MCM7	 minichromosome maintenance complex component 7 	P33993.4
+MDM2	 MDM2 proto-oncogene 	Q00987.1
+MYC	 MYC proto-oncogene, bHLH transcription factor 	P01106.1
+ORC1	 origin recognition complex subunit 1 	Q13415.2
+ORC2	 origin recognition complex subunit 2 	Q13416.2
+ORC3	 origin recognition complex subunit 3 	Q9UBD5.1
+ORC4	 origin recognition complex subunit 4 	O43929.2
+ORC5	 origin recognition complex subunit 5 	O43913.1
+ORC6	 origin recognition complex subunit 6 	Q9Y5N6.1
+PCNA	 proliferating cell nuclear antigen 	P12004.1
+PKMYT1	 protein kinase, membrane associated tyrosine/threonine 1 	Q99640.1
+PLK1	 polo like kinase 1 	P53350.1
+PRKDC	 protein kinase, DNA-activated, catalytic polypeptide 	P78527.3
+PTTG1	 pituitary tumor-transforming 1 	O95997.1
+PTTG2	 pituitary tumor-transforming 2 	Q9NZH5.2
+RAD21	 RAD21 cohesin complex component 	O60216.2
+RB1	 RB transcriptional corepressor 1 	P06400.2
+RBL1	 RB transcriptional corepressor like 1 	P28749.3
+RBL2	 RB transcriptional corepressor like 2 	Q08999.3
+RBX1	 ring-box 1 	P62877.1
+SFN	 stratifin 	P31947.1
+SKP1	 S-phase kinase associated protein 1 	P63208.2
+SKP2	 S-phase kinase associated protein 2 	Q13309.2
+SMAD2	 SMAD family member 2 	Q15796.1
+SMAD3	 SMAD family member 3 	P84022.1
+SMAD4	 SMAD family member 4 	Q13485.1
+SMC1A	 structural maintenance of chromosomes 1A 	Q14683.2
+SMC1B	 structural maintenance of chromosomes 1B 	Q8NDV3.2
+SMC3	 structural maintenance of chromosomes 3 	Q9UQE7.2
+STAG1	 stromal antigen 1 	Q8WVM7.3
+STAG2	 stromal antigen 2 	Q8N3U4.3
+TFDP1	 transcription factor Dp-1 	Q14186.1
+TFDP2	 transcription factor Dp-2 	Q14188.2
+TGFB1	 transforming growth factor beta 1 	P01137.2
+TGFB2	 transforming growth factor beta 2 	P61812.1
+TGFB3	 transforming growth factor beta 3 	P10600.1
+TP53	 tumor protein p53 	P04637.4
+TTK	 TTK protein kinase 	P33981.2
+WEE1	 WEE1 G2 checkpoint kinase 	P30291.2
+WEE2	 WEE1 homolog 2 	P0C1S8.2
+YWHAB	 tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta 	P31946.3
+YWHAE	 tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon 	P62258.1
+YWHAG	 tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma 	P61981.2
+YWHAH	 tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta 	Q04917.4
+YWHAQ	 tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein theta 	P27348.1
+YWHAZ	 tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein zeta 	P63104.1
+ZBTB17	 zinc finger and BTB domain containing 17 	Q13105.3
